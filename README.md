@@ -4,10 +4,6 @@
 Zoblet is a full-stack job portal application built with the MERN stack that redefines the hiring experience. Using MongoDB, Express.js, React.js, and Node.js, it delivers secure authentication, role-based access control, dynamic job listings, and seamless application tracking — all within a fast, responsive, and scalable web platform.
 <br/>
 
- ## 🌐 Live Demo (DEPLOYED):<br/>
-https://zoblet-web-client.vercel.app/
- <br/>
-
  ## 📎 What Zoblet Offers
 
 <br/>  
